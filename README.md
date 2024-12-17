@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Raphael a student of Software engineering</h1>
+<h1 align="center">Hi there 👋, I'm Raphael a Software engineer</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raphaelbenoliel&label=Profile%20views&color=7e21b0&style=plastic" alt="raphaelbenoliel" /> </p>
