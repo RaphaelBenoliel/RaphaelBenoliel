@@ -8,8 +8,8 @@ I’m a software engineering graduate with a strong foundation in JavaScript, Ty
 
 ## 🌟 About Me
 
-- 🛠️ **Tech Stack:**  
-  JavaScript (ES6+), TypeScript, React, React Native, Next.js, Node.js, Express.js, MongoDB, Firebase, Docker and Kubernetes.
+- 🛠️ **Tech Stack:**
+  - JavaScript (ES6+), TypeScript, React, React Native, Next.js, Node.js, Express.js, MongoDB, Firebase, Docker and Kubernetes.
 
 - 🎯 **Focused On:**  
   - Building scalable full-stack applications.  
@@ -17,40 +17,33 @@ I’m a software engineering graduate with a strong foundation in JavaScript, Ty
   - Learning Kubernetes and container orchestration.
 
 - 📂 **Highlighted Projects:**
-  - ✈️ [Smart hotel - Guest stays and hotel management App](https://github.com/MaorHadadLD/SHS-SmartHotel):
+  - 🏨 [SHS - Smart Hotel System](https://github.com/MaorHadadLD/SHS-SmartHotel):
+    - [Frontend](https://github.com/MaorHadadLD/SHS-SmartHotel/tree/main/Client) | [Backend](https://github.com/MaorHadadLD/SHS-SmartHotel/tree/main/Server)
     - A mobile platform enhancing hotel management with self-service features
     - enabling guests to independently manage their stay
-    - communicate with staff, and enjoy a seamless hospitality experience.  
-    - [Frontend](https://github.com/MaorHadadLD/SHS-SmartHotel/tree/main/Client) | [Backend](https://github.com/MaorHadadLD/SHS-SmartHotel/tree/main/Server)
-<!--
-   - 🔒 [Secure File Storage System](https://github.com/Bar1996/SFS_Front): A secure platform for encrypted file uploads and access, prioritizing user data privacy.  
-    - [Frontend](https://github.com/Bar1996/SFS_Front) | [Backend](https://github.com/Bar1996/SFS_Back)  
--->
-
+    - communicate with staff, and enjoy a seamless hospitality experience.       
+  - 🔒 [Two-Factor Authentication](https://github.com/RaphaelBenoliel/2FASystem):
+    - [Frontend](https://github.com/RaphaelBenoliel/2FASystem/tree/main/client) | [Backend](https://github.com/RaphaelBenoliel/2FASystem/tree/main/server)
+    - A secure web application with Two-Factor Authentication, to enhance security.
   
-
 - 💬 **Ask Me About:**  
   Full-stack development, React, React-Native, Node.js, Cloud technologies, or software security.
 
 ---
 
 ## 📈 GitHub Stats
-<!--
+![RaphaelBenoliel's Stats](https://github-readme-stats.vercel.app/api?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Bar Cohen's GitHub stats](https://github-readme-stats.vercel.app/api?username=idobe2&show_icons=true&theme=radical)
--->
+---
+
+## 💻 Top Languages
+![RaphaelBenoliel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
 ## 📫 Connect With Me!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/)  
+- 🌐 [LinkedIn](www.linkedin.com/in/raphael-benoliel-a56812224)
 - ✉️ [Email](mailto:raphael2gb@gmail.com)
 
 ---
-
-## 🌟 Featured Repositories
-<!--
-- ✈️ [Tripy - Global Trip Planning App](https://github.com/idobe2/NetworkingApp)
-- 🔒 [Secure File Storage System](https://github.com/Bar1996/SFS_Front)
--->
