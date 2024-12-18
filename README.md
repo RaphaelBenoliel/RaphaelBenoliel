@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=26&duration=3000&pause=1000&color=4AE473&center=true&multiline=true&width=800&height=150&lines=%F0%9F%91%8B+Hi%2C+I'm+Raphael+Benoliel!;A+Software+Engineer;Passionate+Full-Stack+Developer;React%2FReact+Native+%26+Node.js+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=26&duration=3000&pause=1000&color=4AE473&center=true&multiline=true&width=800&height=150&lines=%F0%9F%91%8B+Hi%2C+I'm+Raphael+Benoliel!;A+Software+Engineer;Passionate+Full-Stack+Developer;React%2FReact+Native+%26+Node.js+Expert)](https://github.com/RaphaelBenoliel)
 
 🚀 I’m a software engineering graduate with a strong foundation in JavaScript, TypeScript, React, React Native, and Node.js. I love building secure, scalable, and user-friendly applications that solve real-world problems.
 
