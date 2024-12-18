@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Raphael Benoliel!
 
-🚀 **Passionate Full-Stack Developer | React/React Native & Node.js Expert**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=32&duration=3000&pause=1000&color=4AE473&center=true&multiline=true&width=800&height=200&lines=%F0%9F%91%8B+Hi%2C+I'm+Raphael+Benoliel!;A+Software+Engineer;Passionate+Full-Stack+Developer;React%2FReact+Native+%26+Node.js+Expert)](https://git.io/typing-svg)
 
-I’m a software engineering graduate with a strong foundation in JavaScript, TypeScript, React, React Native, and Node.js. I love building secure, scalable, and user-friendly applications that solve real-world problems.
+🚀 I’m a software engineering graduate with a strong foundation in JavaScript, TypeScript, React, React Native, and Node.js. I love building secure, scalable, and user-friendly applications that solve real-world problems.
 
 ---
 
@@ -47,3 +46,4 @@ I’m a software engineering graduate with a strong foundation in JavaScript, Ty
 <a href="https://www.linkedin.com/in/raphael-benoliel-a56812224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RaphaelBenoliel&label=Viewers&color=8&icon=3&pretty=true)](https://visitcount.itsvg.in)
