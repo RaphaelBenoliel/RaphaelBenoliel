@@ -43,7 +43,7 @@ I’m a software engineering graduate with a strong foundation in JavaScript, Ty
 
 ## 📫 Connect With Me!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/raphael-benoliel-a56812224)
-- ✉️ [Email](mailto:raphael2gb@gmail.com)
+<a href="mailto:raphael2gb@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raphael-benoliel-a56812224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
