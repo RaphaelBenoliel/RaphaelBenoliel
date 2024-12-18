@@ -31,12 +31,16 @@
 ---
 
 ## 📈 GitHub Stats
-![RaphaelBenoliel's Stats](https://github-readme-stats.vercel.app/api?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center" width="100%">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true">
+</p>
 
 ---
 
 ## 💻 Top Languages
-![RaphaelBenoliel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center" width="100%">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact">
+</p>
 
 ---
 
@@ -46,4 +50,4 @@
 <a href="https://www.linkedin.com/in/raphael-benoliel-a56812224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RaphaelBenoliel&label=Viewers&color=8&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RaphaelBenoliel&label=Viewers&color=8&icon=3&pretty=true&center=true)](https://visitcount.itsvg.in)
