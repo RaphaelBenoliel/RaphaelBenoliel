@@ -50,4 +50,4 @@
 <a href="https://www.linkedin.com/in/raphael-benoliel-a56812224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RaphaelBenoliel&label=Viewers&color=8&icon=3&pretty=true&center=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RaphaelBenoliel&label=Viewers&color=8&icon=3&pretty=true&center=true)](https://github.com/RaphaelBenoliel)
