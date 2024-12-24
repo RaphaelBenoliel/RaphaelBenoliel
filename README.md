@@ -32,14 +32,14 @@
 
 ## 📈 GitHub Stats
 <p align="center" width="100%">
-    <img width="44%" src="https://github-readme-stats.vercel.app/api?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true">
 </p>
 
 ---
 
 ## 💻 Top Languages
 <p align="center" width="100%">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBenoliel&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 ---
