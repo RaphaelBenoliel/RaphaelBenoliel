@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=4AE473&center=true&multiline=true&width=850&height=120&lines=👋+Hi%2C+I'm+Raphael+Benoliel!;Full-Stack+Software+Engineer;React+%26+Node.js+Enthusiast;Building+Scalable+%26+Secure+Apps)](https://github.com/RaphaelBenoliel)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=26&duration=3000&pause=1000&color=4AE473&center=true&multiline=true&width=800&height=150&lines=%F0%9F%91%8B+Hi%2C+I'm+Raphael+Benoliel!;A+Software+Engineer;Passionate+Full-Stack+Developer;React%2FReact+Native+%26+Node.js+Expert)](https://github.com/RaphaelBenoliel)
 
 ---
 
@@ -81,5 +81,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RaphaelBenoliel&label=Profile%20Views&color=8&icon=3&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=RaphaelBenoliel&label=Profile%20Views&color=0e75b6&style=flat" alt="RaphaelBenoliel" />
 </p>
+
